@@ -1,9 +1,8 @@
-
-.container{
+.sign-in{
     border-style: solid;
     border-width: thin;
     margin-top: 5%;
-    
+    padding: 10%;
 }
 
 .forgot-password{
