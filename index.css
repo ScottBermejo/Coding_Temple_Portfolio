@@ -1,0 +1,54 @@
+h1{
+    color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 5px;
+    border-radius: 30px;
+    text-align:center;
+    margin: 25px 50px 75px 50px;
+    background-color: blanchedalmond;
+}
+
+body{
+    background-color: rgb(216, 216, 216);
+}
+
+a.button{
+    border-style: solid;
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.ButtonHeader{
+    border-style: solid;
+    background-color: black;
+}
+
+.Introduction{
+    border-style: solid;
+    background-color:blanchedalmond;
+    border-color: blanchedalmond;
+    margin-top: 50px;
+    margin-right: 300px;
+}
+
+.List{
+    border-style: solid;
+    background-color: blanchedalmond;
+    margin-left: 1000px;
+    margin-bottom:auto;
+    margin-top: 5px;
+}
+
+.bottomForms{
+    border-style: solid;
+    background-color: blanchedalmond;
+    margin-right: 1050px;
+}
+
